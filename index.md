@@ -82,9 +82,9 @@ If you’re serious about clearing the DO280 exam, you’re in the right place.
 
 ## 👤 About Me
 
-Hi, I’m **Abhilash** 👋  
+Hello 👋 !!!  
 
-I’m a **Linux System Administrator** with **9+ years of experience** working in **enterprise Data Centre environments** across the banking and telecom domains. My background includes managing **large-scale RHEL-based systems**, handling **24×7 operations**, and resolving **high-severity incidents** in SLA-driven environments.
+I’m a **Linux System Administrator** with **10+ years of experience** working in **enterprise Data Centre environments** across the banking and telecom domains. My background includes managing **large-scale RHEL-based systems**, handling **24×7 operations**, and resolving **high-severity incidents** in SLA-driven environments.
 
 I’m currently focused on **OpenShift administration** and certification preparation, and I created this platform to provide **hands-on, lab-oriented practice for the Red Hat DO280 OpenShift exam**.
 
