@@ -96,8 +96,3 @@ Unlike theory-heavy notes, this site emphasizes:
 My goal is to help learners **think like an OpenShift administrator**, build confidence through practice, and approach the DO280 exam with clarity and speed.
 
 👉 **Practice smart. Execute clean. Pass with confidence.**
-
-
-### 🔗 Connect
-- GitHub: https://github.com/AbhilashFunde
-- Email: abhilashfunde@gmail.com
